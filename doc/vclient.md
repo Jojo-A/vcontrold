@@ -1,4 +1,4 @@
-# **vclient -** Client Programm zu Kommunikation mit dem [vcontrold](vcontrold). 
+# **vclient -** Client Programm zu Kommunikation mit dem [vcontrold](README-en.md). 
 
 Das Programm wird durch den Aufruf
 **make vclient**
