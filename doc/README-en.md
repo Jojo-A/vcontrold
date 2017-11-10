@@ -1,6 +1,6 @@
 # Linux Daemon for Viessmann Vito communication
 
-vcontrold is a software daemon written in C for communication with the "Optolink" interface of Viessmann Vito heating controllers. Configuration is done via XML-files. The daemon offers an ASCII socket interface, that can be served with telnet or the [vclient](vclient) program.
+vcontrold is a software daemon written in C for communication with the "Optolink" interface of Viessmann Vito heating controllers. Configuration is done via XML-files. The daemon offers an ASCII socket interface, that can be served with telnet or the [vclient](vclient.md) program.
 
 The source code can be downloaded from [THIS](http://sourceforge.net/p/vcontrold/code/HEAD/tree/) SVN repository. Instructions for manual compilation can be found [HERE](Vcontrold-Kompilieren). There is a [feed](https://github.com/probonopd/vcontrold-for-openwrt) (makefile) on github as well as binaries for OpenWRT. Gentoo users can find an ebuild including init-script under [Bug #574964](https://bugs.gentoo.org/show_bug.cgi).
 
